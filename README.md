@@ -8,7 +8,7 @@ Cloning
 Submitting
 === 
 
- 1. Create article as gist
+ 1. Create article as gist or separate repository
  1. git checkout -b "article name"
  1. git submodule add <gist clone url>
  1. git commit -a "added article x"
